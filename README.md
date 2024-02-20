@@ -8,6 +8,10 @@ Weatherific is a Vue.js application that allows users to search for weather info
 - Display current weather conditions including temperature, humidity, wind speed, etc.
 - Responsive design for various devices.
 
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+
 ## Getting Started
 1. Clone this repository.
 2. Obtain a free API key from [OpenWeatherMap](https://openweathermap.org/api) and set it as the value for `apiKey` in `src/config.js`.
